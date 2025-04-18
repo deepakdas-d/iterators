@@ -18,5 +18,8 @@ first, new_it = peep(it)
 print("First item:", first)
 print("Remaining items:", list(new_it))
 
+######Output
 
+# First item: 10
+# Remaining items: [10, 20, 30]
 
