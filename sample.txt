@@ -1,0 +1,7 @@
+"Hello, world!"
+"The quick brown fox jumps over the lazy dog near the riverbank."
+"Python is cool."
+"In the heart of the forest, silence speaks louder than words."
+"Short sentence here."
+"Programming in Python can be both fun and powerful when you get the hang of it."
+
